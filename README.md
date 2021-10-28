@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**mahi98jat/mahi98jat** is a Aspiring Full Stack Web developer at MASAI SCHOOL, Bengalore. 
+**I am Mahipal Singh** an Aspiring Full Stack Web developer at MASAI SCHOOL, Bengalore. 
 
 Here are some ideas to get you started:
 
