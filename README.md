@@ -1,12 +1,69 @@
-### Hi there 👋
 
 
-**I am Mahipal Singh** an Aspiring Full Stack Web developer at MASAI SCHOOL, Bengalore. 
+<a href="#"><img width="100%" height="auto" src="8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a>
 
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on my skills. 
- 🌱 I’m currently learning FULL STACK WEB DEVELOPMENT  at Masai School, Bengalore. 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahipal</h1>
+<h3 align="center">A Full Stack Web Developer</h3>
 
 
+## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
+
+- 👨‍💻 Connect with me **[Mahipal Singh](https://www.linkedin.com/in/jtmahi)**
+-  🔭 I’m currently working on **my skills.**
+
+
+
+- 🌱 I’m currently learning **Data Structures and Algorithms, React, Typescript.**
+
+
+- 📫 How to reach me **mahipal_fw10_207@masai.school**
+
+
+## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
+
+    
+   <a href = "#">  <img background = "black" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" /> </a>
+    <a href = "#">  <img src="https://img.icons8.com/color/48/000000/javascript.png" /> </a>
+     <a href = "#"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a>
+     <a href = "#"> <img src="https://img.icons8.com/color/48/000000/css3.png" /> </a>
+    <a href = "#">  <img src="https://img.icons8.com/color/48/000000/nodejs.png" /> </a>
+    <a href = "#">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a> 
+    <a href = "#">  <img src="https://img.icons8.com/color/48/000000/git.png" /> </a>
+    <a href = "#">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+
+
+
+
+
+
+ ## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/mahi98jat/github-readme-stats"><img alt="Mahipal's Github stats" src="https://github-readme-stats.vercel.app/api?username=mahi98jat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mahi98jat/github-readme-stats"><img alt="Mahipal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi98jat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+ 
+ 
+
+<br/>
+<br/>
+
+<a href="https://github.com/mahi98jat/github-readme-activity-graph"><img alt="Mahipal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahi98jat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/jtmahi"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/HaritwalMahipal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mahi98jat">
+</a>
+<a href="https://github.com/mahi98jat?tab=followers"><img src="https://img.shields.io/github/followers/mahi98jat?label=Followers&style=social" alt="GitHub Badge"></a>
 
