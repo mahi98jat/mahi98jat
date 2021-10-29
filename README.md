@@ -1,6 +1,6 @@
 
 
-<a href="#"><img width="100%" height="auto" src="8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a>
+<a href="#"> <img src = "https://www.wallpapertip.com/wmimgs/250-2504846_a-two-display-workspace-with-lines-of-code.jpg" width="100%" height = "500px" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahipal</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
