@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms, React, Typescript.**
 
 
-- 📫 How to reach me **mahipal_fw10_207@masai.school**
+- 📫 How to reach me **mahi98jat@gmail.com**
 
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
