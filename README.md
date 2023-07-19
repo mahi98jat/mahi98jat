@@ -9,11 +9,11 @@
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
 - 👨‍💻 Connect with me **[Mahipal Singh](https://www.linkedin.com/in/jtmahi)**
--  🔭 I’m currently working on **my skills.**
+-  🔭 I’m currently working as a **Front-end Software Engineer** at Qapita Fintech
 
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, React, Typescript.**
+- 🌱 I’m currently enhancing and doing my hand durty in **Data Structures and Algorithms, React, Typescript.**
 
 
 - 📫 How to reach me **mahi98jat@gmail.com**
