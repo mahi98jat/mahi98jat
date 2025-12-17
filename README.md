@@ -1,69 +1,112 @@
+<h1 align="center">Hi 👋, I'm Mahipal Singh</h1>
+<h3 align="center">SDE-2 | Full Stack Engineer (Frontend → Backend)</h3>
 
-
-<a href="#"> <img src = "https://www.wallpapertip.com/wmimgs/250-2504846_a-two-display-workspace-with-lines-of-code.jpg" width="100%" height = "500px" /></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahipal</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
-
-
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
-
-- 👨‍💻 Connect with me **[Mahipal Singh](https://www.linkedin.com/in/jtmahi)**
--  🔭 I’m currently working as a **Front-end Software Engineer** at Qapita Fintech
-
-
-
-- 🌱 I’m currently enhancing and doing my hand durty in **Data Structures and Algorithms, React, Typescript.**
-
-
-- 📫 How to reach me **mahi98jat@gmail.com**
-
-
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
-
-    
-   <a href = "#">  <img background = "black" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" /> </a>
-    <a href = "#">  <img src="https://img.icons8.com/color/48/000000/javascript.png" /> </a>
-     <a href = "#"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a>
-     <a href = "#"> <img src="https://img.icons8.com/color/48/000000/css3.png" /> </a>
-    <a href = "#">  <img src="https://img.icons8.com/color/48/000000/nodejs.png" /> </a>
-    <a href = "#">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a> 
-    <a href = "#">  <img src="https://img.icons8.com/color/48/000000/git.png" /> </a>
-    <a href = "#">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-
-
-
-
-
-
- ## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/mahi98jat/github-readme-stats"><img alt="Mahipal's Github stats" src="https://github-readme-stats.vercel.app/api?username=mahi98jat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/mahi98jat/github-readme-stats"><img alt="Mahipal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi98jat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
- 
- 
-
-<br/>
-<br/>
-
-<a href="https://github.com/mahi98jat/github-readme-activity-graph"><img alt="Mahipal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahi98jat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/jtmahi"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/HaritwalMahipal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahi98jat&label=Profile%20views&color=0e75b6&style=flat" alt="mahi98jat" />
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mahi98jat">
-</a>
-<a href="https://github.com/mahi98jat?tab=followers"><img src="https://img.shields.io/github/followers/mahi98jat?label=Followers&style=social" alt="GitHub Badge"></a>
+---
+
+## 🚀 About Me
+- 💻 Software Engineer with **3+ years of experience**
+- 🔁 Transitioned from **Frontend → Full Stack**
+- 🧠 Strong in **System Design, OOP, LLD & HLD**
+- 🏗️ Building **scalable multi-tenant SaaS platforms**
+- ☁️ Experienced with **AWS, payments, video SDKs**
+- 🌱 Currently deepening **Java & Spring Boot backend systems**
+
+---
+
+## 💼 Professional Experience
+
+### 🏦 Qapita Fintech (Jan 2022 – Feb 2024)
+- Frontend Engineer working on **fintech & equity management products**
+- Built complex UI workflows using **React, TypeScript, Webpack**
+- Worked extensively with **AG-Grid, Syncfusion, DocuSign**
+- Improved UI performance and maintainability using **Atomic Design**
+
+### 🚀 GYTWorkz Technologies (Mar 2024 – Present)
+- Joined as Frontend Engineer → promoted to **SDE-2 Full Stack Engineer**
+- Built **Stripe-based subscription & feature-access system**
+- Implemented **Zoom Video SDK & UI SDK** for virtual appointments
+- Designed **AWS Lambda + S3 + DocumentDB** data pipelines
+- Integrated **Google SSO & tenant-specific SSO**
+- Scaled application usage to **137 appointments/day**
+- Increased user registrations by **~25%**
+
+---
+
+## 🧠 Backend & System Design Focus
+- Java (Core Java, OOP)
+- Design Patterns
+- Low-Level Design (LLD)
+- High-Level Design (HLD)
+- Spring Boot (REST APIs, layered architecture)
+- SQL + JDBC
+- Domain modeling & serialization
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+`React` `TypeScript` `JavaScript` `Vite` `Webpack`  
+`Material-UI` `Ant Design` `AG-Grid` `Syncfusion` `SCSS`
+
+### Backend
+`Node.js` `Fastify` `Express.js`  
+`Java` `Spring Boot`
+
+### Cloud & Infra
+`AWS EC2` `ECS` `S3` `Lambda` `CloudWatch`
+
+### Other
+`Stripe` `Zoom SDK` `Twilio`  
+`MongoDB` `DocumentDB` `SQL`  
+`Git` `GitHub` `Jest` `Redux` `Zustand`
+
+---
+
+## 📌 Key Projects
+
+### 🏥 MediTrack — Clinic & Appointment Management System
+- Spring Boot backend for clinics, doctors & appointments
+- REST APIs, SQL database, JDBC integration
+- Designed using **LLD principles & domain modeling**
+
+### 📚 Library Management System (Core Java)
+- Menu-driven console application
+- Book inventory, members, issue/return flow
+- Strong OOP-based modular design
+
+### 🎓 Student Management System (Core Java)
+- Menu-based system for students & courses
+- Focus on OOP, validation, extensibility
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahi98jat&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi98jat&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahi98jat&show_icons=true&locale=en&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **mahi98jat@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/jtmahi
+- 🌐 Portfolio: https://mahipal.vercel.app
+
+---
+
+⭐ *Always building. Always learning.*
 
